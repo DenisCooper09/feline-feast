@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=1_Overview.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=1_Overview.SchDoc|Designator=U_2_MCU|SchDesignator=U_2_MCU|FileName=2_MCU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=2_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=1_Overview.SchDoc|FileName=3_Power.SchDoc|SheetNumber=3
