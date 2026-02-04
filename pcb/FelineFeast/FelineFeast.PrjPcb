@@ -245,6 +245,74 @@ DocumentPath=Project Outputs for FelineFeast\FelineFeast.csv
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for FelineFeast\Manufacturing\FelineFeastPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for FelineFeast\Pick Place for FelineFeastPCB.csv
 DItemRevisionGUID=
 
